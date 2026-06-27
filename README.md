@@ -107,4 +107,4 @@ requirements.txt
 
 ## Author
 
-Tanmay Krishna Sattiraju
+Rashmita Perumanla
